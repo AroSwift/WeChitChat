@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Images
+Disallow: /Includes
+Disallow: /User_Images
+Disallow: /js
+Disallow: /css
+Disallow: /admin
+Disallow: /admin/Includes
+Disallow: /admin/css
+Disallow: /admin/js
+Disallow: /admin/Images
