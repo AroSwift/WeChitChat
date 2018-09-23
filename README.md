@@ -25,4 +25,6 @@ I was not allowed to have a Facebook when I was 13 so I built WeChitChat to comm
 
 # WeChitChat in Action
 
-![GitHub Logo](/images/working/admin_page.png)
+<!-- ![alt tag](https://raw.githubusercontent.com/AroSwift/WeChitChat/master/Ima/assets/images/02.png) -->
+
+![Admin Page](/Images/working/admin_page.png)
