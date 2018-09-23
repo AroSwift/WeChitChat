@@ -25,6 +25,35 @@ I was not allowed to have a Facebook when I was 13 so I built WeChitChat to comm
 
 # WeChitChat in Action
 
-<!-- ![alt tag](https://raw.githubusercontent.com/AroSwift/WeChitChat/master/Ima/assets/images/02.png) -->
+Personal Post Board:
+![alt text](/Images/working/own_post_board.png)
 
-![Admin Page](/Images/working/admin_page.png)
+Edit Profile Page:
+![Edit Profile](/Images/working/edit_profile_page.png)
+
+Search for Specific People:
+![alt text](/Images/working/search_people.png)
+
+View and Accept Friends:
+![alt text](/Images/working/view_friends.png)
+
+Friends Page:
+![alt text](/Images/working/friends_page.png)
+
+Instant Chat:
+![alt text](/Images/working/instant_chat.png)
+
+Send Message:
+![alt text](/Images/working/send_message.png)
+
+Message Index Page:
+![alt text](/Images/working/message_index.png)
+
+Parent SignUp:
+![alt text](/Images/working/parent_sign_up.png)
+
+Parent Add Children:
+![alt text](/Images/working/parent_add_child.png)
+
+Parent Controls:
+![alt text](/Images/working/parental_controls.png)
