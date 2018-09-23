@@ -25,35 +25,35 @@ I was not allowed to have a Facebook when I was 13 so I built WeChitChat to comm
 
 # WeChitChat in Action
 
-** Personal Post Board: **
+**Personal Post Board:**
 ![alt text](/Images/working/own_post_board.png)
 
-** Edit Profile Page: **
+**Edit Profile Page:**
 ![Edit Profile](/Images/working/edit_profile_page.png)
 
-** Search for Specific People: **
+**Search for Specific People:**
 ![alt text](/Images/working/search_people.png)
 
-** View and Accept Friends: **
+**View and Accept Friends:**
 ![alt text](/Images/working/view_friends.png)
 
-** Friends Page: **
+**Friends Page:**
 ![alt text](/Images/working/friends_page.png)
 
-** Instant Chat: **
+**Instant Chat:**
 ![alt text](/Images/working/instant_chat.png)
 
-** Send Message: **
+**Send Message:**
 ![alt text](/Images/working/send_message.png)
 
-** Message Index Page: **
+**Message Index Page:**
 ![alt text](/Images/working/message_index.png)
 
-** Parent SignUp: **
+**Parent SignUp:**
 ![alt text](/Images/working/parent_sign_up.png)
 
-** Parent Add Children: **
+**Parent Add Children:**
 ![alt text](/Images/working/parent_add_child.png)
 
-** Parent Controls: **
+**Parent Controls:**
 ![alt text](/Images/working/parental_controls.png)
